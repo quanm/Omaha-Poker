@@ -1,4 +1,4 @@
-package com.pyrsoftware;
+package com.abc;
 
 /**
  * The class represents a single card object
